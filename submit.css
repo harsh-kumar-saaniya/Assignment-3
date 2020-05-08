@@ -1,0 +1,32 @@
+.img{
+    align:center;
+    margin-top: 50px;
+
+}
+h1.thanku{
+    text-transform: capitalize;
+    font-size: 55px;
+    text-align: center;
+    color: #0D800D;    ;
+}
+p{
+    font-size: 40px;
+    font-family: , Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: #791AA2;
+}
+
+a.link{
+    text-align: center;
+    font-size: 50px;
+    color: #791aa2;
+    text-transform: capitalize;
+    
+
+p.para{
+    text-align: center;
+}
+
+
+}

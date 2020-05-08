@@ -1,0 +1,131 @@
+p.para1{
+    text-align: center;
+    font-size: 45px;
+    color:#8d61f3;
+    text-transform: uppercase;
+    font-family: arial;
+    text-decoration: underline;
+}
+
+.maincontainer{
+    background-color: #8d61f3;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 8px;
+    padding-right:8px ;
+    padding-bottom: 8px;
+    
+}
+
+p.para2{
+    text-transform: uppercase;
+    color: #fff;
+}
+#firstname{
+    margin-left: 72px;
+    padding: 5px;
+    border-radius: 0px;
+}
+span.info{
+    color:#fff;
+    text-transform: lowercase;
+}
+#lastname{
+    margin-left:80px;
+    padding: 5px;
+    
+}
+.dateofbirth{
+    margin-left: 50px;
+}
+
+#email{
+    margin-left: 119px;
+    padding: 5px;
+    border-radius: 0px;
+}
+
+#mobilenumber{
+    margin-left: 36px;
+    padding: 5px;
+    border-radius: 0px;
+}
+span.male{
+    margin-left: 101px;
+}
+.textarea{
+    margin-left: 96px;
+}
+span.address-section{
+    width:150px;
+    height: 95;
+    position: relative;
+    bottom: 80px;
+    color:#fff;
+}
+
+#city{
+    margin-left:133px ;
+    padding:5px;
+}
+#pincode{
+    margin-left: 97px;
+    padding:5px;
+}
+#state{
+    margin-left: 123px;
+    padding:5px;
+}
+#country{
+    margin-left: 94px;
+    padding:5px;
+}
+span.hobbiescategory{
+    margin-left:98px;
+
+}
+span.userstatement>input[type=text]{
+    padding: 4px;
+}
+.others{
+    margin-left: 171px;
+}
+
+span.qualification{
+    color:#fff;
+    width:170px;
+    background-color:;
+}
+span#child-table{
+    position: fixed;
+    top: 50px;
+}
+table.table{
+    margin-left: 170px;
+    position: relative;
+    bottom: 35px;
+}   
+tr.row1{
+    color: #fff;
+}
+span.course-detail{
+    margin-left: 65px;
+}
+
+td.table-data1>input[type=text]{
+    padding: 3px;
+    border-radius: ;
+}
+
+#Submit{
+    width:100px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#Reset{
+
+    width:100px;
+    height: 30px;
+    border-radius: 5px;
+}
